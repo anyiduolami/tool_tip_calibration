@@ -10,8 +10,7 @@
 5. 求解局部坐标Tip_t
 6. 所有5个点（ABCDE）都参与优化
 
-作者: AI Assistant
-日期: 2025-01-22
+
 """
 
 import numpy as np
